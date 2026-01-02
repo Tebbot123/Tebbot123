@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently developing **a roblox game**
 
-- 🌱 I’m currently learning **React, Python, Roblox-TS**
+- 🌱 I’m currently learning **Rust**
 
-- 🖥️ I work with **Typescript, JavaScript, Lua**
+- 🖥️ I work with **Typescript, JavaScript, Lua, Roblox-TS**
 
-- 📚 I want to learn **Rust, Go, C++**
+- 📚 I want to learn **Go, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
